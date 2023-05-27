@@ -107,39 +107,3 @@ export const NoContacts = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
 `;
-
-// Kayla Bosco
-// 466-902-2908
-
-// Darnell Rowe
-// 788-356-5397
-
-// Ramon Nader
-// 626-751-7002
-
-// Lamar Gibson
-// 357-364-0910
-
-// Diane Thompson
-// 382-401-1371
-
-// Leslie Rosenbaum
-// 707-287-8072
-
-// Jaime West
-// 774-307-1728
-
-// Angelica Hermiston
-// 456-840-4107
-
-// Terence Buckridge
-// 273-799-8729
-
-// Virginia Pacocha
-// 293-368-0908
-
-// Andrew Littel
-// 293-368-0908
-
-// Rosie Simpson
-// 227-91-26

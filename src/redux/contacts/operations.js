@@ -4,7 +4,6 @@ import toast from 'react-hot-toast';
 
 axios.defaults.baseURL = 'https://connections-api.herokuapp.com';
 
-// GET @ /contacts
 export const fetchAllContacts = createAsyncThunk(
   'contacts/fetchAll',
   async (_, { rejectWithValue }) => {
@@ -17,7 +16,6 @@ export const fetchAllContacts = createAsyncThunk(
   }
 );
 
-// POST @ /contacts
 export const fetchAddContact = createAsyncThunk(
   'contacts/addContact',
   async (data, { rejectWithValue }) => {
@@ -45,7 +43,6 @@ export const fetchAddContact = createAsyncThunk(
   }
 );
 
-// DELETE @ /contacts/:id
 export const fetchDeleteContact = createAsyncThunk(
   'contacts/deleteContacts',
   async (id, { rejectWithValue }) => {
