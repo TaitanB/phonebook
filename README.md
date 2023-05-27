@@ -17,7 +17,7 @@
 <li>react-hot-toast</li>
 <li>react-icons</li>
 <li>react-loader-spinner</li>
-<li>react-router-dom</li>
+<li>react-router</li>
 <li>react-helmet-async</li>
 <li>redux-persist</li>
 <li>styled-components</li>
